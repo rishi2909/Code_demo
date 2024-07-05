@@ -1,4 +1,4 @@
 # Code_demo
 Try for demo repository
 <br>
-Author - Rishi Raj
+Author - Rishi (Singh)
